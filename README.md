@@ -1,8 +1,8 @@
-- 👋 diego.Moreira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 diego i.Moreira prestes
+- 👀 16anos,1c,
+- cerp, colegio estadual rocha pombo 
+- morretes
+- 📫 diego.prestes@escola.pr.gov.br
 
 <!---
 diego2116/diego2116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
